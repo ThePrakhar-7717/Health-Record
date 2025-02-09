@@ -53,6 +53,6 @@ git clone <repository-url>
    ```
 ## Contributors
 
-- **Prakhar Srivastava** - [ThePrakhar-7717](https://github.com/ThePrakhar-7717)
+- **Tanishka Sharma** - [tanishka167](https://github.com/tanishka167)
 
 - Thank you for your support and contributions!
